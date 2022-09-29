@@ -21,7 +21,7 @@ provenance:
         - curator
         - licensor
       url: 'https://www.wdc-climate.de/ui/entry?acronym=eVolv2k_v3'
-  license: 'Creative Commons Attribution 4.0 International'
+  license: CC-BY-4.0
 maintainers:
   - name: 'Jordan Landers'
     orcid: '0000-0001-9772-7617'
